@@ -71,7 +71,7 @@ usb-creator==0.3.3
 virtualenv==20.0.1
 w3lib==1.21.0
 wadllib==1.3.2
-websockets==8.1
+websockets==9.1
 xkit==0.0.0
 zipp==2.2.0
 zope.interface==4.3.2
